@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="message">CALCULATOR BMI</string>
+    <string name="message_classification">CLASSIFICATION: %1$s! </string>
+    <string name="bmi_table">BMI TABLE\n\n         LESS THAN 18,5     UNDERWEIGHT \n         BETWEEN 18,5 E 24,9  NORMAL \n         BETWEEN 25,0 E 29,9  OVERWEIGHT I\n         BETWEEN 30,0 E 39,9  OBESITY II\n         GREATER THAN 40,0   SEVERE OBESITY III</string>
+
+
+</resources>
